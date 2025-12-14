@@ -18,6 +18,7 @@ prepare() {
 
   # Download Go module dependencies
   export GOPATH="${srcdir}/gopath"
+  export GOFLAGS="-modcacherw"
   go mod download -x
 }
 
