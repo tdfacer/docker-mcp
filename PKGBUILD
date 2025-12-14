@@ -2,7 +2,7 @@
 
 pkgname=docker-mcp
 pkgver=0.34.0
-pkgrel=1
+pkgrel=2
 pkgdesc='Docker CLI plugin for MCP Gateway - manage and run MCP servers in containers'
 arch=('x86_64')
 url='https://github.com/docker/mcp-gateway'

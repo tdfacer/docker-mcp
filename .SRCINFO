@@ -1,7 +1,7 @@
 pkgbase = docker-mcp
 	pkgdesc = Docker CLI plugin for MCP Gateway - manage and run MCP servers in containers
 	pkgver = 0.34.0
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/docker/mcp-gateway
 	arch = x86_64
 	license = MIT
